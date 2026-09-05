@@ -6,6 +6,7 @@ venv/
 jobs/
 *.mp4
 !tests/fixtures/**
+!examples/**/*.mp4
 .pytest_cache/
 .mypy_cache/
 dist/
